@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;1,200&display=swap");
+
+.main__main {
+  background-color: #344965;
+  color: #d5d4d8;
+}
+
+.logo {
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Karla", sans-serif;
+}
+
+.hum {
+  color: #90ee90;
+}
+
+.pe {
+  color: #e8a776;
+}
+
+.sha {
+  color: #e8a776;
+}
+
+.slogan {
+  color: #d5d4d8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  font-family: "Karla", sans-serif;
+  font-size: 20px;
+}
+
+.choose__login{
+    display: flex;
+    /* flex-wrap: wrap; */
+    align-items: center;
+    justify-content: center;
+}
+
+
+#loginbox{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding: 200px; */
+    margin: 20px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.login__left{
+    display: flex;
+    flex-direction: column;
+    background-color: #5b875b;
+    transition: all .2s ease-in-out;
+}
+
+.login__right{
+    display: flex;
+    flex-direction: column;
+    background-color: #a87956;
+    transition: all .2s ease-in-out;
+}
+
+.login__left:hover{
+    transform: scale(1.1);
+}
+.login__right:hover{
+    transform: scale(1.1);
+}
+
+.icon1{
+    background-color: transparent;
+    height: 100px;
+    width: 100px;
+}

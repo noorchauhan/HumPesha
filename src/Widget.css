@@ -1,0 +1,37 @@
+ 
+.widget{
+  width: 600px;
+  margin: 50px 50px 0px 50px ;
+  padding: 50px;
+    /* border: 1px solid red; */
+    height: 200px;
+    background-color: #D5D4D8;
+    border-radius: 25px;
+  }
+  
+  .fa-location-dot{
+    margin-right: 5px;
+  }
+  /* .company{
+  
+  } */
+  .apply-button{
+    position:relative;
+    left: 80%;
+    bottom: 20px;
+    height: 40px;
+    width: 100px;
+    background-color: #344965;
+    color: #D5D4D8;
+    border: none;
+    border-radius: 25px;
+  }
+
+  .location__icon{
+    height: 15px;
+  }
+
+  .location{
+    display: flex;
+    align-items: center;
+  }
