@@ -1,0 +1,21 @@
+.widget{
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 47%;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 2%;
+    height: 200px;
+  }
+  
+  .fa-location-dot{
+    margin-right: 5px;
+  }
+  /* .company{
+  
+  } */
+  .apply-button{
+    position:relative;
+    left: 85%;
+    bottom: 60px;
+  }

@@ -1,0 +1,26 @@
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: #344965;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+}
+
+.nav__left{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    /* border: 1px solid green; */
+}
+.nav__right{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    /* border: 1px solid red; */
+    margin-right: 40px;
+    margin-top: 15px;
+}

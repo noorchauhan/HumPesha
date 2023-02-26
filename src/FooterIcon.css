@@ -1,0 +1,14 @@
+.footer__icon img{
+    background-color: transparent;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    margin-right: 40px;
+    color: #D5D4D8;
+}
+
+.footer__icons{
+    color: #D5D4D8;
+    margin: 10px;
+    scale: 1.3;
+}

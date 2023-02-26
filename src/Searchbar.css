@@ -1,0 +1,24 @@
+.search{
+    display: flex;
+    height: 40px;
+    width: 200px;
+    background-color: #D5D4D8 ;
+    align-items: center;
+    padding: 0px 10px;
+    border-radius: 10px;
+}
+
+input{
+    background-color: #D5D4D8 ;
+    border: none;
+    outline: none;
+}
+
+input:focus{
+    outline: none;
+}
+
+.searchicon{
+    background-color: transparent;
+    color: #344965;
+}
