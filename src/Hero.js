@@ -9,11 +9,9 @@ function Hero() {
         <div className="heroleft">
           <h1>GET STARTED WITH YOUR JOURNEY</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Voluptatibus consectetur, reprehenderit tempore accusamus inventore
-            repudiandae nesciunt minus, nisi distinctio sed dicta quis ullam
-            dignissimos ratione expedita eum quaerat. Necessitatibus blanditiis
-            quod aliquid tenetur qui id iusto omnis?
+            HumPesha is a platform for your skills to put to test
+            using our services you can find yourself the perfect match to
+            your skills
           </p>
           <Link to="/internship"><button>Apply Now!</button></Link>
         </div>
